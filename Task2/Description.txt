@@ -13,3 +13,9 @@ The terminal throws me an error message saying that turtlebot_gazebo is not a re
 The issue is now resolved.
 I had made a mistake by installing the dependencies for ROS kinetic instead of ROS noetic.
 I was able to spawn the turtle bot in the environment and control it with the help of keyboard input.
+
+
+Here are the resources I used to complete this task.
+1. https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
+2. https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+3. https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
