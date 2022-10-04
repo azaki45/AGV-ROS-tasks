@@ -1,0 +1,10 @@
+Given Task:
+Install turtlebot3 (you may use the following link for help).
+Control turtlebot3 using ROS and arrow keys.
+Now, record the topics that are being published onto a bag file. Save this bag file.
+Read the velocity of turtlebot3 from the bag file that you previously recorded. Add some gaussian noise to this and publish it to a new topic. You may print out these values to check if they are being published correctly.
+
+
+I installed all the package dependencies for turtle bot.
+Gazebo is working fine but the bot is not being spawned.
+The terminal throws me an error message saying that turtlebot_gazebo is not a recognized launch file. I am working on debugging this issue.
