@@ -1,1 +1,6 @@
+Given Task:
+Task 1:
+Create a node that publishes some dummy string to a topic.
+Subscribe to this topic in another node and print out the string so as to ensure that they are working
 
+I used python to code the publisher and subscriber nodes and then I launched them from the terminal to display the published and subscribed String.
