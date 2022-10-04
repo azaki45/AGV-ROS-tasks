@@ -8,3 +8,8 @@ Read the velocity of turtlebot3 from the bag file that you previously recorded. 
 I installed all the package dependencies for turtle bot.
 Gazebo is working fine but the bot is not being spawned.
 The terminal throws me an error message saying that turtlebot_gazebo is not a recognized launch file. I am working on debugging this issue.
+
+
+The issue is now resolved.
+I had made a mistake by installing the dependencies for ROS kinetic instead of ROS noetic.
+I was able to spawn the turtle bot in the environment and control it with the help of keyboard input.
